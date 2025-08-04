@@ -1,5 +1,8 @@
 # Algorithms Solutions
 
+## Sliding Window
+- `contains-duplicate-II/` 
+
 ## Two Pointers
 - `merge-sorted-arrays/` - Two pointers approach for merging arrays
 - `two-sum-2/` - Two pointers on sorted array
