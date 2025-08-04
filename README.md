@@ -2,13 +2,16 @@
 
 ## Sliding Window
 - `contains-duplicate-II/` 
-- `longest-harmonious-subsequence`
-- `max-average-subarray`
+- `longest-harmonious-subsequence/`
+- `max-average-subarray/`
 
 ## Two Pointers
 - `merge-sorted-arrays/` - Two pointers approach for merging arrays
 - `two-sum-2/` - Two pointers on sorted array
 - `remove-duplicated-from-sorted-list/` - Two pointers for list traversal
+
+## Fast and Slow pointers
+- `has-cycles/`
 
 ## Hash Table
 - `two-sum/` - Hash map for complement lookup
