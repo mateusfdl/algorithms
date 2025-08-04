@@ -2,6 +2,7 @@
 
 ## Sliding Window
 - `contains-duplicate-II/` 
+- `longest-harmonious-subsequence`
 
 ## Two Pointers
 - `merge-sorted-arrays/` - Two pointers approach for merging arrays
